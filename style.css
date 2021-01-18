@@ -1,0 +1,58 @@
+
+.heading
+{
+border: 3px solid black;
+color: #c2156e;
+border-radius: 10px;
+background-color: #34eb92;
+font-family: 'Aclonica', sans-serif;
+font-size: 25px;
+width: 100%;
+margin: 0px;
+height: 78px;
+}
+
+#stop_button
+{
+    font-size: 16px;
+}
+
+#status 
+{
+font-size: 18px;
+}
+
+#note
+{
+    font-size: 15px;
+}
+
+#baby_status
+{
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #428df5;
+    border: 3px solid black;
+    color: #f0efad;
+    width: 230px;
+    height: 36px;
+    font-family: 'Viga', sans-serif;
+}
+
+canvas{
+ box-shadow: 3px 3px 3px grey;
+ border-radius: 10px;
+ margin-top: 30px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.copy_right_footer
+{
+    font-family: 'Acme', sans-serif;
+    background-color: #42f5e3;
+    font-size: 23px;
+}
